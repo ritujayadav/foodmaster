@@ -1,3 +1,4 @@
-# Sweetect-2.0
+# food master
 
-This is an update for sweetect app
+This is a ml based food detecting app
+
