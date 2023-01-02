@@ -25,7 +25,7 @@ The prototype of our app is
 
 • Online compliers such as Google Collaboratory or jupyter.
 
-Name of testing and the	things to be tested
+NAME OF THE TESTING
 
 1	API testing-	User’s comfort with program should be tested.
 
