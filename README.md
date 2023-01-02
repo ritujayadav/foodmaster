@@ -9,9 +9,7 @@ The prototype of our app is
 ![image](https://user-images.githubusercontent.com/110754843/210263392-def7ca8a-f7c3-4a9f-b34c-aee1c922bd11.png)
 
 
-1.HARDWARE INTERFACE: 
-Any computer or laptop with popular os is required to for this project. 
-Hardware Requirements: 
+1.HARDWARE REQUIREMENTS: 
 
 •	Windows 10/8/7 
 
@@ -19,7 +17,7 @@ Hardware Requirements:
 
 •	RAM:8.00 GB 3.3
 
-2.SOFTWARE INTERFACE: 
+2.SOFTWARE REQUIREMENTS: 
  
 • Android Studio code
 
@@ -28,6 +26,7 @@ Hardware Requirements:
 • Online compliers such as Google Collaboratory or jupyter.
 
 Name of testing and the	things to be tested
+
 1	API testing-	User’s comfort with program should be tested.
 
 2	Unit testing- Every module of the program should be tested.
@@ -38,6 +37,7 @@ Name of testing and the	things to be tested
 
 
 TEST CASES
+
 1	Importing packages-Packages should be imported successfully-As expected	Pass.
 
 2	Food detection- Name of the food should be detected correctly-As expected	Pass.
