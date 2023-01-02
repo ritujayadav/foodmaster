@@ -12,15 +12,42 @@ The prototype of our app is
 1.HARDWARE INTERFACE: 
 Any computer or laptop with popular os is required to for this project. 
 Hardware Requirements: 
+
 •	Windows 10/8/7 
+
 •	64 Bit operating system, x64-based processor 
+
 •	RAM:8.00 GB 3.3
 
 2.SOFTWARE INTERFACE: 
-Software requirements: 
+ 
 • Android Studio code
+
 • Emulator
+
 • Online compliers such as Google Collaboratory or jupyter.
+
+Name of testing and the	things to be tested
+1	API testing-	User’s comfort with program should be tested.
+
+2	Unit testing- Every module of the program should be tested.
+
+3	Integration testing- Connection between the modules are tested.
+
+4	System testing- The functional flow of the program are tested.
+
+
+TEST CASES
+1	Importing packages-Packages should be imported successfully-As expected	Pass.
+
+2	Food detection- Name of the food should be detected correctly-As expected	Pass.
+
+3	Calorie detection-Calorie and sugar content should be displayed-As expected	Pass.
+
+4	Camera functionality-Camera should be launched properly-As expected	Pass.
+
+5	Accuracy testing-Report should be generated correctly-As expected	pass.
+
 
 
 For data training we have trained 101 food items
