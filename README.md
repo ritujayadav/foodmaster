@@ -4,7 +4,7 @@ This is a machine learning based food detection app
 
 Our ultimate goal is to create a system that would detect the food and thereby encourage people to know about the carbohydrate and calorie values of the food they are consuming. A CNN based algorithm will be used to detect the food items by using machine learning algorithms for data training.
 
-The prototype of our app is
+The prototype of our app
 
 ![image](https://user-images.githubusercontent.com/110754843/210263392-def7ca8a-f7c3-4a9f-b34c-aee1c922bd11.png)
 
